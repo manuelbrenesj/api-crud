@@ -6,6 +6,7 @@ const app = express();
 
 const productsRoutes = require('./routes/product');
 
+
 //SETTINGS
 
 app.set('json spaces', 4); //CONFIGURA SALTOS DE LINEA EN EL NAVEGADOR
